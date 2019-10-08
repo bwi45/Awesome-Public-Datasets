@@ -64,17 +64,27 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 #### Kalimantan
 + [Kalimantan Barat](https://kalbar.bps.go.id)
+  + [Pontianak](https://pontianakkota.bps.go.id)
 + [Kalimantan Tengah](https://kalteng.bps.go.id)
+  + [Palangkaraya](https://palangkakota.bps.go.id)
 + [Kalimantan Selatan](https://kalsel.bps.go.id)
+  + [Banjarmasin](https://banjarmasinkota.bps.go.id)
 + [Kalimantan Timur](https://kaltim.bps.go.id)
+  + [Samarinda](https://banjarmasinkota.bps.go.id)
 + [Kalimantan Utara](https://kaltara.bps.go.id)
+  + [Tanjungselor](https://bulungankab.bps.go.id)
 
 #### Sulawesi
 + [Sulawesi Selatan](https://sulsel.bps.go.id)
+  + [Makassar](https://makassarkota.bps.go.id)
 + [Sulawesi Tengah](https://sulteng.bps.go.id)
+  + [Palu](https://palukota.bps.go.id)
 + [Sulawesi Tenggara](https://sultra.bps.go.id)
+  + [Kendari](https://kendarikota.bps.go.id)
 + [Gorontalo](https://gorontalo.bps.go.id)
+  + [Kota Gorontalo](https://gorontalokota.bps.go.id)
 + [Sulawesi Utara](https://sulut.bps.go.id)
+  + [Manado](https://manadokota.bps.go.id)
 
 #### Maluku
 + [Maluku](https://maluku.bps.go.id)
