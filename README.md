@@ -10,6 +10,9 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Badan Pusat Statistik](https://www.bps.go.id)
 + [Badan Informasi Geospasial](https://www.big.go.id) 
 + [Satu Data Indonesia](https://data.go.id)
++ [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2)
++ [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
++ [KataData](https://databoks.katadata.co.id)
 
 ### Region
 + [DKI Jakarta](http://data.jakarta.go.id)
@@ -19,6 +22,19 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Bandung](http://data.bandung.go.id)
 
 ### Badan Pusat Statistik
+#### Sumatra
++ [Aceh](http://www.pusdatin.kemkes.go.id)
+  + [Banda Aceh](https://bandaacehkota.bps.go.id)
++ [Sumatra Utara](https://sumut.bps.go.id)
++ [Sumatra Barat](https://sumbar.bps.go.id)
++ [Riau](https://riau.bps.go.id)
++ [Kepulauan Riau]()
++ [Jambi]()
++ [Bengkulu]()
++ [Sumatra Selatan]()
++ [Kep. Bangka Belitung]()
++ [Lampung]()
+
 #### Java
 + [Banten](https://banten.bps.go.id)
   + [Serang](https://serangkota.bps.go.id/)
