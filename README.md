@@ -19,10 +19,12 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [KataData](https://databoks.katadata.co.id)
 
 ### Region
-+ [DKI Jakarta](http://data.jakarta.go.id)
++ [D.K.I. Jakarta](http://data.jakarta.go.id)
 + [West Java](https://data.jabarprov.go.id)
++ [Center Java](http://data.jatengprov.go.id)
 
 ### City
++ [Jakarta](http://data.jakarta.go.id)
 + [Bandung](http://data.bandung.go.id)
 
 ### Badan Pusat Statistik
@@ -38,9 +40,9 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Kepulauan Riau](https://kepri.bps.go.id)
   + [Tanjung Pinang](https://tanjungpinangkota.bps.go.id)
 + [Jambi](https://jambi.bps.go.id)
-  + [Jambi](https://jambikota.bps.go.id)
+  + [Kota Jambi](https://jambikota.bps.go.id)
 + [Bengkulu](https://bengkulu.bps.go.id)
-  + [Bengkulu](https://bengkulukota.bps.go.id)
+  + [Kota Bengkulu](https://bengkulukota.bps.go.id)
 + [Sumatra Selatan](https://sumsel.bps.go.id)
   + [Palembang](https://palembangkota.bps.go.id)
 + [Kep. Bangka Belitung](https://babel.bps.go.id)
@@ -51,7 +53,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 #### Java
 + [Banten](https://banten.bps.go.id)
   + [Serang](https://serangkota.bps.go.id)
-+ [DKI Jakarta](https://jakarta.bps.go.id)
++ [D.K.I. Jakarta](https://jakarta.bps.go.id)
   + [Center Jakarta](https://jakpuskota.bps.go.id)
 + [West Java](https://jabar.bps.go.id)
   + [Bandung](https://bandungkota.bps.go.id)
@@ -106,4 +108,3 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 ### Banyuwangi
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
-+ [Bla-bla]()
