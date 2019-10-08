@@ -6,6 +6,10 @@
 # Awesome Public Datasets
 This repository provides public datasets in Indonesia region, espesially Banyuwangi regency.
 
+<a Indonesia map href="https://en.wikipedia.org/wiki/Indonesia">
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Indonesia.png" width="100%">
+</a>
+
 ### National
 + [Badan Pusat Statistik](https://www.bps.go.id)
 + [Badan Informasi Geospasial](https://www.big.go.id) 
