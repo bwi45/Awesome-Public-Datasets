@@ -30,18 +30,27 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Aceh](http://www.pusdatin.kemkes.go.id)
   + [Banda Aceh](https://bandaacehkota.bps.go.id)
 + [Sumatra Utara](https://sumut.bps.go.id)
+  + [Medan](https://medankota.bps.go.id)
 + [Sumatra Barat](https://sumbar.bps.go.id)
+  + [Padang](https://padangkota.bps.go.id)
 + [Riau](https://riau.bps.go.id)
-+ [Kepulauan Riau]()
-+ [Jambi]()
-+ [Bengkulu]()
-+ [Sumatra Selatan]()
-+ [Kep. Bangka Belitung]()
-+ [Lampung]()
+  + [Pekanbaru](https://pekanbarukota.bps.go.id)
++ [Kepulauan Riau](https://kepri.bps.go.id)
+  + [Tanjung Pinang](https://tanjungpinangkota.bps.go.id)
++ [Jambi](https://jambi.bps.go.id)
+  + [Jambi](https://jambikota.bps.go.id)
++ [Bengkulu](https://bengkulu.bps.go.id)
+  + [Bengkulu](https://bengkulukota.bps.go.id)
++ [Sumatra Selatan](https://sumsel.bps.go.id)
+  + [Palembang](https://palembangkota.bps.go.id)
++ [Kep. Bangka Belitung](https://babel.bps.go.id)
+  + [Pangkalpinang](https://pangkalpinangkota.bps.go.id)
++ [Lampung](https://lampung.bps.go.id)
+  + [Bandar Lampung](https://bandarlampungkota.bps.go.id)
 
 #### Java
 + [Banten](https://banten.bps.go.id)
-  + [Serang](https://serangkota.bps.go.id/)
+  + [Serang](https://serangkota.bps.go.id)
 + [DKI Jakarta](https://jakarta.bps.go.id)
   + [Center Jakarta](https://jakpuskota.bps.go.id)
 + [West Java](https://jabar.bps.go.id)
@@ -51,7 +60,39 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [D.I. Yogyakarta](https://jakpuskota.bps.go.id)
   + [Yogyakarta](https://jogjakota.bps.go.id)
 + [East Java](https://jatim.bps.go.id)
-  + [Surabaya](https://surabayakota.bps.go.id/)
+  + [Surabaya](https://surabayakota.bps.go.id)
+
+#### Kalimantan
++ [Kalimantan Barat](https://kalbar.bps.go.id)
++ [Kalimantan Tengah](https://kalteng.bps.go.id)
++ [Kalimantan Selatan](https://kalsel.bps.go.id)
++ [Kalimantan Timur](https://kaltim.bps.go.id)
++ [Kalimantan Utara](https://kaltara.bps.go.id)
+
+#### Sulawesi
++ [Sulawesi Selatan](https://sulsel.bps.go.id)
++ [Sulawesi Tengah](https://sulteng.bps.go.id)
++ [Sulawesi Tenggara](https://sultra.bps.go.id)
++ [Gorontalo](https://gorontalo.bps.go.id)
++ [Sulawesi Utara](https://sulut.bps.go.id)
+
+#### Maluku
++ [Maluku](https://maluku.bps.go.id)
+  + [Ambon](https://ambonkota.bps.go.id)
++ [Maluku Utara](https://malut.bps.go.id)
+  + [Sofifi](https://tikepkota.bps.go.id)
+
+#### Nusa Tenggara
++ [Nusa Tenggara Barat](https://ntb.bps.go.id)
+  + [Mataram](https://mataramkota.bps.go.id)
++ [Nusa Tenggara Timur](https://ntt.bps.go.id)
+  + [Kupang](https://kupangkota.bps.go.id)
+
+#### Papua
++ [Papua](https://papua.bps.go.id)
+  + [Jayapura](https://jayapurakota.bps.go.id)
++ [Papua Barat](https://papuabarat.bps.go.id)
+  + [Manokwari](https://manokwarikab.bps.go.id)
 
 ### Banyuwangi
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
