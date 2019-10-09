@@ -107,12 +107,9 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
   + [Manokwari](https://manokwarikab.bps.go.id)
 
 ## Banyuwangi
-<p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
-</p>
 
 <p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="50%">
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="30%" href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi">
 </p>
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
