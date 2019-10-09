@@ -60,9 +60,9 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Center Java](https://jateng.bps.go.id)
   + [Semarang](https://semarangkota.bps.go.id)
 + [D.I. Yogyakarta](https://jakpuskota.bps.go.id)
-  + [Yogyakarta](capital)(https://jogjakota.bps.go.id)
+  + [Yogyakarta](https://jogjakota.bps.go.id)(capital)
 + [East Java](https://jatim.bps.go.id)
-  + [Surabaya](capital)(https://surabayakota.bps.go.id) | [Malang](https://malangkota.bps.go.id/) | [Batu](https://batukota.bps.go.id/) | [Blitar](https://blitarkota.bps.go.id/) | [Kediri](https://kedirikota.bps.go.id/) | [Madiun](https://madiunkota.bps.go.id/) | [Mojokerto](https://mojokertokota.bps.go.id/) | [Pasuruan](https://pasuruankota.bps.go.id/) | [Probolinggo](https://probolinggokota.bps.go.id/)
+  + [Surabaya](https://surabayakota.bps.go.id)(capital) | [Malang](https://malangkota.bps.go.id/) | [Batu](https://batukota.bps.go.id/) | [Blitar](https://blitarkota.bps.go.id/) | [Kediri](https://kedirikota.bps.go.id/) | [Madiun](https://madiunkota.bps.go.id/) | [Mojokerto](https://mojokertokota.bps.go.id/) | [Pasuruan](https://pasuruankota.bps.go.id/) | [Probolinggo](https://probolinggokota.bps.go.id/)
 
 #### Kalimantan
 + [Kalimantan Barat](https://kalbar.bps.go.id)
@@ -90,21 +90,21 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 #### Maluku
 + [Maluku](https://maluku.bps.go.id)
-  + [Ambon](capital)(https://ambonkota.bps.go.id) | [Tual](https://tualkota.bps.go.id)
+  + [Ambon](https://ambonkota.bps.go.id)(capital) | [Tual](https://tualkota.bps.go.id)
 + [Maluku Utara](https://malut.bps.go.id)
-  + [Sofifi](capital)(https://tikepkota.bps.go.id) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
+  + [Sofifi](https://tikepkota.bps.go.id)(capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
 
 #### Nusa Tenggara
 + [Nusa Tenggara Barat](https://ntb.bps.go.id)
-  + [Mataram](capital)(https://mataramkota.bps.go.id) | [Bima](https://bimakota.bps.go.id/)
+  + [Mataram](https://mataramkota.bps.go.id)(capital) | [Bima](https://bimakota.bps.go.id/)
 + [Nusa Tenggara Timur](https://ntt.bps.go.id)
-  + [Kupang](capital)(https://kupangkota.bps.go.id)
+  + [Kupang](https://kupangkota.bps.go.id)(capital)
 
 #### Papua
 + [Papua](https://papua.bps.go.id)
-  + [Jayapura](capital)(https://jayapurakota.bps.go.id)
+  + [Jayapura](https://jayapurakota.bps.go.id)(capital)
 + [Papua Barat](https://papuabarat.bps.go.id)
-  + [Manokwari](capital)(https://manokwarikab.bps.go.id)
+  + [Manokwari](https://manokwarikab.bps.go.id)(capital)
 
 ## Banyuwangi
 
