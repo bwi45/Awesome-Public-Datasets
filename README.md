@@ -9,7 +9,7 @@
 
 This repository provides public datasets in Indonesia region, espesially Banyuwangi regency.
 
-<a align="center"> Indonesia map href="https://en.wikipedia.org/wiki/Indonesia">
+<a Indonesia map href="https://en.wikipedia.org/wiki/Indonesia">
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Indonesia.png" width="100%">
 </a>
 
@@ -107,7 +107,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
   + [Manokwari](https://manokwarikab.bps.go.id)
 
 ## Banyuwangi
-<a align="center"> banyuwangi map href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi">
+<a banyuwangi map href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi"> align="center"> 
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="50%">
 </a>
 
