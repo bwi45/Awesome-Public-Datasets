@@ -5,13 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
 # Awesome Public Datasets
+> “Negara ini, Republik Indonesia, bukan milik kelompok manapun, juga agama, atau kelompok etnis manapun, atau kelompok dengan adat dan tradisi apa pun, tapi milik kita semua dari Sabang sampai Merauke!” ~ Ir. Soekarno
+
 This repository provides public datasets in Indonesia region, espesially Banyuwangi regency.
 
 <a Indonesia map href="https://en.wikipedia.org/wiki/Indonesia">
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Indonesia.png" width="100%">
 </a>
 
-### National
+## National
 + [Badan Pusat Statistik](https://www.bps.go.id)
 + [Badan Informasi Geospasial](https://www.big.go.id) 
 + [Satu Data Indonesia](https://data.go.id)
@@ -25,7 +27,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 ### City
 [Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id)
 
-### Badan Pusat Statistik
+## Badan Pusat Statistik
 #### Sumatra
 + [Aceh](http://www.pusdatin.kemkes.go.id)
   + [Banda Aceh](https://bandaacehkota.bps.go.id)
@@ -104,5 +106,5 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Papua Barat](https://papuabarat.bps.go.id)
   + [Manokwari](https://manokwarikab.bps.go.id)
 
-### Banyuwangi
+## Banyuwangi
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
