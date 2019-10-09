@@ -78,15 +78,15 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 #### Sulawesi
 + [Sulawesi Selatan](https://sulsel.bps.go.id)
-  + [Makassar](https://makassarkota.bps.go.id)
+  + [Makassar](https://makassarkota.bps.go.id) (capital) | [Palopo](https://palopokota.bps.go.id/) | [Parepare](https://pareparekota.bps.go.id/)
 + [Sulawesi Tengah](https://sulteng.bps.go.id)
-  + [Palu](https://palukota.bps.go.id)
+  + [Palu](https://palukota.bps.go.id) (capital)
 + [Sulawesi Tenggara](https://sultra.bps.go.id)
-  + [Kendari](https://kendarikota.bps.go.id)
+  + [Kendari](https://kendarikota.bps.go.id) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
 + [Gorontalo](https://gorontalo.bps.go.id)
   + [Kota Gorontalo](https://gorontalokota.bps.go.id) (capital)
 + [Sulawesi Utara](https://sulut.bps.go.id)
-  + [Manado](https://manadokota.bps.go.id)
+  + [Manado](https://manadokota.bps.go.id) (capital) | [Bitung](https://bitungkota.bps.go.id/) | [Kotamobagu](https://kotamobagukota.bps.go.id/) | [Tomohon](https://tomohonkota.bps.go.id/)
 
 #### Maluku
 + [Maluku](https://maluku.bps.go.id)
