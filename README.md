@@ -66,15 +66,15 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 #### Kalimantan
 + [Kalimantan Barat](https://kalbar.bps.go.id)
-  + [Pontianak](https://pontianakkota.bps.go.id)
+  + [Pontianak](https://pontianakkota.bps.go.id) (capital) | [Singkawang](https://singkawangkota.bps.go.id/)
 + [Kalimantan Tengah](https://kalteng.bps.go.id)
-  + [Palangkaraya](https://palangkakota.bps.go.id)
+  + [Palangkaraya](https://palangkakota.bps.go.id (capital)
 + [Kalimantan Selatan](https://kalsel.bps.go.id)
-  + [Banjarmasin](https://banjarmasinkota.bps.go.id)
+  + [Banjarmasin](https://banjarmasinkota.bps.go.id) (capital) | [Banjarbaru](https://banjarbarukota.bps.go.id/)
 + [Kalimantan Timur](https://kaltim.bps.go.id)
-  + [Samarinda](https://banjarmasinkota.bps.go.id)
+  + [Samarinda](https://banjarmasinkota.bps.go.id) (capital) | [Balikpapan](https://balikpapankota.bps.go.id/) | [Bontang](https://bontangkota.bps.go.id/)
 + [Kalimantan Utara](https://kaltara.bps.go.id)
-  + [Tanjungselor](https://bulungankab.bps.go.id)
+  + [Tarakan](https://tarakankota.bps.go.id/) (capital)
 
 #### Sulawesi
 + [Sulawesi Selatan](https://sulsel.bps.go.id)
