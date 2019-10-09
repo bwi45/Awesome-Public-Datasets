@@ -62,7 +62,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [D.I. Yogyakarta](https://jakpuskota.bps.go.id)
   + [Yogyakarta](https://jogjakota.bps.go.id)
 + [East Java](https://jatim.bps.go.id)
-  + [Surabaya](https://surabayakota.bps.go.id)
+  + [Surabaya (capital)](https://surabayakota.bps.go.id) | [Malang](https://malangkota.bps.go.id/) | [Batu](https://batukota.bps.go.id/) | [Blitar](https://blitarkota.bps.go.id/) | [Kediri](https://kedirikota.bps.go.id/) | [Madiun](https://madiunkota.bps.go.id/) | [Mojokerto](https://mojokertokota.bps.go.id/) | [Pasuruan](https://pasuruankota.bps.go.id/) | [Probolinggo](https://probolinggokota.bps.go.id/)
 
 #### Kalimantan
 + [Kalimantan Barat](https://kalbar.bps.go.id)
@@ -117,3 +117,4 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 ## Refereces
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
 + [List of regencies and cities of Indonesia](https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia)
++ [Cities of Indonesia](https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_provinsi)
