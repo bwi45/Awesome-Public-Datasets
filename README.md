@@ -2,6 +2,7 @@
 [![HitCount](http://hits.dwyl.com/Banyuwangi45/awesome-public-datasets.svg)](http://hits.dwyl.com/Banyuwangi45/awesome-public-datasets)
 ![GitHub contributors](https://img.shields.io/github/contributors/Banyuwangi45/awesome-public-datasets)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Banyuwangi45/awesome-public-datasets)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
 # Awesome Public Datasets
 This repository provides public datasets in Indonesia region, espesially Banyuwangi regency.
@@ -19,13 +20,10 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [KataData](https://databoks.katadata.co.id)
 
 ### Region
-+ [D.K.I. Jakarta](http://data.jakarta.go.id)
-+ [West Java](https://data.jabarprov.go.id)
-+ [Center Java](http://data.jatengprov.go.id)
+[D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
 
 ### City
-+ [Jakarta](http://data.jakarta.go.id)
-+ [Bandung](http://data.bandung.go.id)
+[Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id)
 
 ### Badan Pusat Statistik
 #### Sumatra
