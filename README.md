@@ -17,10 +17,10 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Badan Pusat Statistik](https://www.bps.go.id)
 + [Badan Informasi Geospasial](https://www.big.go.id) 
 + [Satu Data Indonesia](https://data.go.id)
++ [Pusat Data Desa Indonesia](https://datadesa.id)
 + [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2)
 + [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
 + [Kata Data](https://databoks.katadata.co.id)
-+ [Pusat Data Indonesia](https://datadesa.id)
 
 ### Region
 [D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
