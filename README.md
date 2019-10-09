@@ -119,7 +119,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
 
-## Refereces
+## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
 + [List of regencies and cities of Indonesia](https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia)
 + [Cities of Indonesia](https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_provinsi)
