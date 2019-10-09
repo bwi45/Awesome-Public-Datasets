@@ -19,7 +19,8 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Satu Data Indonesia](https://data.go.id)
 + [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2)
 + [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
-+ [KataData](https://databoks.katadata.co.id)
++ [Kata Data](https://databoks.katadata.co.id)
++ [Pusat Data Indonesia](https://datadesa.id)
 
 ### Region
 [D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
