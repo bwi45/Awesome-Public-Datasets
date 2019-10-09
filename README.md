@@ -27,7 +27,7 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 ### City
 [Jakarta](http://data.jakarta.go.id) | [Bandung](http://data.bandung.go.id)
 
-## Badan Pusat Statistik
+## Statistics Indonesia (Badan Pusat Statistik)
 #### Sumatra
 + [Aceh](http://www.pusdatin.kemkes.go.id)
   + [Banda Aceh](https://bandaacehkota.bps.go.id)
