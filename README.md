@@ -18,9 +18,18 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 + [Badan Informasi Geospasial](https://www.big.go.id) 
 + [Satu Data Indonesia](https://data.go.id)
 + [Pusat Data Desa Indonesia](https://datadesa.id)
++ [Kata Data](https://databoks.katadata.co.id)
+
+### Ministry
 + [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2)
 + [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
-+ [Kata Data](https://databoks.katadata.co.id)
+
+### About Indonesia
++ [data.world](https://data.world/datasets/indonesia)
++ [data.worldbank.org](https://data.worldbank.org/country/indonesia)
++ [wri-indonesia.org](https://wri-indonesia.org/en/resources)
++ [data.humdata.org](https://data.humdata.org/group/idn)
++ [world data atlas](https://knoema.com/atlas/Indonesia/datasets)
 
 ### Region
 [D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
@@ -119,7 +128,12 @@ This repository provides public datasets in Indonesia region, espesially Banyuwa
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
 
+## Politics Data
++ [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
+
+
 ## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
 + [List of regencies and cities of Indonesia](https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia)
 + [Cities of Indonesia](https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_provinsi)
++ [tau-data.id](https://tau-data.id/open-dataset/)
