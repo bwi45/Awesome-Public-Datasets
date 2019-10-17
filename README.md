@@ -127,6 +127,8 @@ This repository provides public datasets in Indonesia region and espesially Bany
 </p>
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
++ [Banyuwangi Geographic Information System](http://gis.banyuwangikab.go.id/)
++ [Pemerintah Kabupaten Bayuwangi](https://www.banyuwangikab.go.id/)
 
 ## Politics Data
 + [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
