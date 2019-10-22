@@ -123,7 +123,7 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## Banyuwangi
 
 <p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="30%" href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi">
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/Banyuwangi.png" width="30%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
 </p>
 
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
@@ -136,6 +136,10 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## Lembaga Survei
 + [Lembaga SUrvei Indonesia](http://www.lsi.or.id/)
 + [Saiful Mujani Research and Consulting](http://saifulmujani.com/)
+
+<p align="center"> 
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="30%" href="https://id.wikipedia.org/wiki/Kabupaten_Banyuwangi">
+</p>
 
 ## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
