@@ -136,6 +136,7 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## Lembaga Survei
 + [Lembaga Survei Indonesia](http://www.lsi.or.id/)
 + [Saiful Mujani Research and Consulting](http://saifulmujani.com/)
++ [Indikator](http://indikator.co.id/)
 
 <p align="center"> 
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
