@@ -133,6 +133,9 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## Politics Data
 + [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 
+## Lembaga Survei
++ [Lembaga SUrvei Indonesia](http://www.lsi.or.id/)
++ [Saiful Mujani Research and Consulting](http://saifulmujani.com/)
 
 ## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
