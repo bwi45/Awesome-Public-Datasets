@@ -134,11 +134,11 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 
 ## Lembaga Survei
-+ [Lembaga SUrvei Indonesia](http://www.lsi.or.id/)
++ [Lembaga Survei Indonesia](http://www.lsi.or.id/)
 + [Saiful Mujani Research and Consulting](http://saifulmujani.com/)
 
 <p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="80%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
 </p>
 
 ## References
