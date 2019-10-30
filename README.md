@@ -14,22 +14,13 @@ This repository provides public datasets in Indonesia region and espesially Bany
 </a>
 
 ## National
-+ [Badan Pusat Statistik](https://www.bps.go.id)
-+ [Badan Informasi Geospasial](https://www.big.go.id) 
-+ [Satu Data Indonesia](https://data.go.id)
-+ [Pusat Data Desa Indonesia](https://datadesa.id)
-+ [Kata Data](https://databoks.katadata.co.id)
++ [Badan Pusat Statistik](https://www.bps.go.id) | [Badan Informasi Geospasial](https://www.big.go.id) | [Satu Data Indonesia](https://data.go.id) | [Pusat Data Desa Indonesia](https://datadesa.id) | [Kata Data](https://databoks.katadata.co.id)
 
 ### Ministry
-+ [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2)
-+ [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
++ [Satu Data Perencanaan Pembangunan](https://satudata.bappenas.go.id/home2) | [Pusat Data Kementrian Kesehatan](http://www.pusdatin.kemkes.go.id)
 
 ### About Indonesia
-+ [data.world](https://data.world/datasets/indonesia)
-+ [data.worldbank.org](https://data.worldbank.org/country/indonesia)
-+ [wri-indonesia.org](https://wri-indonesia.org/en/resources)
-+ [data.humdata.org](https://data.humdata.org/group/idn)
-+ [world data atlas](https://knoema.com/atlas/Indonesia/datasets)
++ [data.world](https://data.world/datasets/indonesia) | [data.worldbank.org](https://data.worldbank.org/country/indonesia) | [wri-indonesia.org](https://wri-indonesia.org/en/resources) | [data.humdata.org](https://data.humdata.org/group/idn) | [world data atlas](https://knoema.com/atlas/Indonesia/datasets)
 
 ### Region
 [D.K.I. Jakarta](http://data.jakarta.go.id) | [West Java](https://data.jabarprov.go.id) | [Center Java](http://data.jatengprov.go.id)
@@ -131,12 +122,14 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [Pemerintah Kabupaten Bayuwangi](https://www.banyuwangikab.go.id/)
 
 ## Politics Data
-+ [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
++ **Election** [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
++ **Ministry e-budgeting** [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | 
++ **Provincies e-budgeting** [DKI Jakarta](https://apbd.jakarta.go.id/) | [Center Java](https://ebudgeting.jatengprov.go.id/) | [East Java](http://budgeting.jatimprov.go.id:2018/#/main) | [North Kalimantan](http://e-budgeting.kaltaraprov.go.id) | [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [Bengkulu](https://bengkuluprov.go.id/tag/e-budgeting/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
++ **Cities e-budgeting** [Bandung](http://apbd.bandung.go.id) | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
++ **Regencies e-budgeting** [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
 
 ## Lembaga Survei
-+ [Lembaga Survei Indonesia](http://www.lsi.or.id/)
-+ [Saiful Mujani Research and Consulting](http://saifulmujani.com/)
-+ [Indikator](http://indikator.co.id/)
+[Lembaga Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/)
 
 <p align="center"> 
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
