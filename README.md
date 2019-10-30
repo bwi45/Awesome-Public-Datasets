@@ -85,14 +85,14 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 + **Government:**
-++ **> Sumatera:** [Aceh](https://www.acehprov.go.id/) | [Sumatra Utara](https://www.sumutprov.go.id/) | [Sumatra Barat](https://www.sumbarprov.go.id/) | [Riau](https://www.riau.go.id/home/) | [Kepulauan Riau](https://www.kepriprov.go.id/) | [Jambi](http://jambiprov.go.id/v2/) | [Bengkulu](https://bengkuluprov.go.id/) | [Sumatra Selatan](http://sumselprov.go.id/index.php?module=content&id=1) | [Kep. Bangka Belitung](https://www.babelprov.go.id/) | [Lampung](https://lampungprov.go.id/)
-++ **> Java:** [Banten](https://www.bantenprov.go.id/) | [D.K.I. Jakarta](https://www.jakarta.go.id/) | [West Java](https://jabarprov.go.id/) | [Center Java](https://jatengprov.go.id/) | [D.I. Yogyakarta](https://jogjaprov.go.id/) | [East Java](https://www.jatimprov.go.id/)
-**> Kalimantan:** [Kalimantan Barat](http://kalbarprov.go.id/) | [Kalimantan Tengah](https://kalteng.go.id/) | [Kalimantan Selatan](http://www.kalselprov.go.id/) | [Kalimantan Timur](https://kaltimprov.go.id/) | [Kalimantan Utara](https://www.kaltaraprov.go.id/)
-**> Sulawesi:** [Sulawesi Selatan](https://sulselprov.go.id/) | [Sulawesi Tengah](https://www.sultengprov.go.id/) | [Sulawesi Tenggara](http://www.sultraprov.go.id/) | [Gorontalo](https://www.gorontaloprov.go.id/) | [Sulawesi Utara](https://www.sulutprov.go.id/)
-**> Maluku:** [Maluku](https://www.malukuprov.go.id/) | [Maluku Utara](https://www.malutprov.go.id/)
-**> Bali:** [Bali](https://www.baliprov.go.id/)
-**> Nusa Tenggara:** [Nusa Tenggara Timur](http://nttprov.go.id/2018/) | [Nusa Tenggara Barat](https://www.ntbprov.go.id/)
-**> Papua:** [Papua](https://www.papua.go.id/) | [Papua Barat](https://papuabaratprov.go.id/)
+  + **> Sumatera:** [Aceh](https://www.acehprov.go.id/) | [Sumatra Utara](https://www.sumutprov.go.id/) | [Sumatra Barat](https://www.sumbarprov.go.id/) | [Riau](https://www.riau.go.id/home/) | [Kepulauan Riau](https://www.kepriprov.go.id/) | [Jambi](http://jambiprov.go.id/v2/) | [Bengkulu](https://bengkuluprov.go.id/) | [Sumatra Selatan](http://sumselprov.go.id/index.php?module=content&id=1) | [Kep. Bangka Belitung](https://www.babelprov.go.id/) | [Lampung](https://lampungprov.go.id/)
+  + **> Java:** [Banten](https://www.bantenprov.go.id/) | [D.K.I. Jakarta](https://www.jakarta.go.id/) | [West Java](https://jabarprov.go.id/) | [Center Java](https://jatengprov.go.id/) | [D.I. Yogyakarta](https://jogjaprov.go.id/) | [East Java](https://www.jatimprov.go.id/)
+  + **> Kalimantan:** [Kalimantan Barat](http://kalbarprov.go.id/) | [Kalimantan Tengah](https://kalteng.go.id/) | [Kalimantan Selatan](http://www.kalselprov.go.id/) | [Kalimantan Timur](https://kaltimprov.go.id/) | [Kalimantan Utara](https://www.kaltaraprov.go.id/)
+  + **> Sulawesi:** [Sulawesi Selatan](https://sulselprov.go.id/) | [Sulawesi Tengah](https://www.sultengprov.go.id/) | [Sulawesi Tenggara](http://www.sultraprov.go.id/) | [Gorontalo](https://www.gorontaloprov.go.id/) | [Sulawesi Utara](https://www.sulutprov.go.id/)
+  + **> Maluku:** [Maluku](https://www.malukuprov.go.id/) | [Maluku Utara](https://www.malutprov.go.id/)
+  + **> Bali:** [Bali](https://www.baliprov.go.id/)
+  + **> Nusa Tenggara:** [Nusa Tenggara Timur](http://nttprov.go.id/2018/) | [Nusa Tenggara Barat](https://www.ntbprov.go.id/)
+  + **> Papua:** [Papua](https://www.papua.go.id/) | [Papua Barat](https://papuabaratprov.go.id/)
 
 ## E-Planning and E-Budgeting
 + **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
