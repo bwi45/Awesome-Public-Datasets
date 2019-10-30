@@ -113,16 +113,18 @@ This repository provides public datasets in Indonesia region and espesially Bany
 
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
+
+## E-Planning and E-Budgeting
 + **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
 + **Provincies e-budgeting**: 
-**Sumatera**: [Bengkulu](https://bengkuluprov.go.id/tag/e-budgeting/)
-**Java**: [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java: belum | [Center Java](https://ebudgeting.jatengprov.go.id/) | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
+**Sumatera**: Aceh: belum | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera: belum | Riau: belum | Riau Island: belum | Jambi: belum | South Sumatera: belum | Bengkulu: belum | Bangka Belitung: belum | Jambi: belum | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
+**Java**: [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java: belum | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta: belum | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
 **Kalimantan**: [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
 **Sulawesi**: [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
-**Maluku**:
-**Bali**:
-**Nusa Tenggara**: 
-**Papua**: [Papua](https://ppa.papua.go.id/landing_ppa/)
+**Maluku**: Maluku: belum | Maluku Utara: belum
+**Bali**: Bali: belum
+**Nusa Tenggara**: Nusa Tenggara Timur: belum | Nusa Tenggara Barat: belum 
+**Papua**: [Papua](https://ppa.papua.go.id/landing_ppa/) | Papua Barat: belum
 + **Cities e-budgeting**: [Bandung](http://apbd.bandung.go.id) | Semarang: belum | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
 + **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
 
@@ -148,3 +150,4 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [List of regencies and cities of Indonesia](https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia)
 + [Cities of Indonesia](https://id.wikipedia.org/wiki/Daftar_kota_di_Indonesia_menurut_provinsi)
 + [tau-data.id](https://tau-data.id/open-dataset/)
++ [Integrasi E-Planning dan E-Budgeting - bpkp.go.id](http://www.bpkp.go.id/berita/read/17979/10/Integrasi-E-Planning-dan-E-Budgeting.bpkp)
