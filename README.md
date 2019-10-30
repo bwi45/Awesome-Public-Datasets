@@ -117,7 +117,7 @@ This repository provides public datasets in Indonesia region and espesially Bany
 ## E-Planning and E-Budgeting
 + **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
 + **Provincies e-budgeting**: 
-**Sumatera**: Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
+**> Sumatera**: Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
 **> Java**: [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
 **> Kalimantan**: [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
 **> Sulawesi**: [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
@@ -129,7 +129,7 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
 
 ## Lembaga Survei
-[Lembaga Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/)
+[Lembaga Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/) | [Charta Politika](http://www.chartapolitika.com/) | [Litbang Kompas](http://www.kompasdata.id/)
 
 <p align="center"> 
   <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
