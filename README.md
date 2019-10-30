@@ -57,48 +57,36 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [**Kalimantan Utara**](https://kaltara.bps.go.id): [Tarakan](https://tarakankota.bps.go.id/) (capital)
 
 #### Sulawesi
-+ [Sulawesi Selatan](https://sulsel.bps.go.id)
-  + [Makassar](https://makassarkota.bps.go.id) (capital) | [Palopo](https://palopokota.bps.go.id/) | [Parepare](https://pareparekota.bps.go.id/)
-+ [Sulawesi Tengah](https://sulteng.bps.go.id)
-  + [Palu](https://palukota.bps.go.id) (capital)
-+ [Sulawesi Tenggara](https://sultra.bps.go.id)
-  + [Kendari](https://kendarikota.bps.go.id) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
-+ [Gorontalo](https://gorontalo.bps.go.id)
-  + [Kota Gorontalo](https://gorontalokota.bps.go.id) (capital)
-+ [Sulawesi Utara](https://sulut.bps.go.id)
-  + [Manado](https://manadokota.bps.go.id) (capital) | [Bitung](https://bitungkota.bps.go.id/) | [Kotamobagu](https://kotamobagukota.bps.go.id/) | [Tomohon](https://tomohonkota.bps.go.id/)
++ [**Sulawesi Selatan**](https://sulsel.bps.go.id): [Makassar](https://makassarkota.bps.go.id) (capital) | [Palopo](https://palopokota.bps.go.id/) | [Parepare](https://pareparekota.bps.go.id/)
++ [**Sulawesi Tengah**](https://sulteng.bps.go.id): [Palu](https://palukota.bps.go.id) (capital)
++ [**Sulawesi Tenggara**](https://sultra.bps.go.id): [Kendari](https://kendarikota.bps.go.id) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
++ [**Gorontalo**](https://gorontalo.bps.go.id): [Kota Gorontalo](https://gorontalokota.bps.go.id) (capital)
++ [**Sulawesi Utara**](https://sulut.bps.go.id): [Manado](https://manadokota.bps.go.id) (capital) | [Bitung](https://bitungkota.bps.go.id/) | [Kotamobagu](https://kotamobagukota.bps.go.id/) | [Tomohon](https://tomohonkota.bps.go.id/)
 
 #### Maluku
-+ [Maluku](https://maluku.bps.go.id)
-  + [Ambon](https://ambonkota.bps.go.id) (capital) | [Tual](https://tualkota.bps.go.id)
-+ [Maluku Utara](https://malut.bps.go.id)
-  + [Sofifi](https://tikepkota.bps.go.id) (capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
++ [**Maluku**](https://maluku.bps.go.id): [Ambon](https://ambonkota.bps.go.id) (capital) | [Tual](https://tualkota.bps.go.id)
++ [**Maluku Utara**](https://malut.bps.go.id): [Sofifi](https://tikepkota.bps.go.id) (capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
 
 #### Bali
-+ [Bali](https://bali.bps.go.id/)
-  + [Denpasar](https://denpasarkota.bps.go.id/)(capital)
++ [**Bali**](https://bali.bps.go.id/): [Denpasar](https://denpasarkota.bps.go.id/)(capital)
 
 #### Nusa Tenggara
-+ [Nusa Tenggara Barat](https://ntb.bps.go.id)
-  + [Mataram](https://mataramkota.bps.go.id) (capital) | [Bima](https://bimakota.bps.go.id/)
-+ [Nusa Tenggara Timur](https://ntt.bps.go.id)
-  + [Kupang](https://kupangkota.bps.go.id) (capital)
++ [**Nusa Tenggara Barat**](https://ntb.bps.go.id): [Mataram](https://mataramkota.bps.go.id) (capital) | [Bima](https://bimakota.bps.go.id/)
++ [**Nusa Tenggara Timur**](https://ntt.bps.go.id): [Kupang](https://kupangkota.bps.go.id) (capital)
 
 #### Papua
-+ [Papua](https://papua.bps.go.id)
-  + [Jayapura](https://jayapurakota.bps.go.id) (capital)
-+ [Papua Barat](https://papuabarat.bps.go.id)
-  + [Manokwari](https://manokwarikab.bps.go.id) (capital)
++ [**Papua**](https://papua.bps.go.id): [Jayapura](https://jayapurakota.bps.go.id) (capital)
++ [**Papua Barat**](https://papuabarat.bps.go.id): [Manokwari](https://manokwarikab.bps.go.id) (capital)
 
 ## APBN and APBD
-+ **APBN:** [2019]()
++ **APBN:** [2019](https://www.kemenkeu.go.id/media/11226/buku-informasi-apbn-2019.pdf)
 + **APBD:** 
 
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 + **Government:**
-**> Sumatera:** [Aceh](https://www.acehprov.go.id/) | [Sumatra Utara](https://www.sumutprov.go.id/) | [Sumatra Barat](https://www.sumbarprov.go.id/) | [Riau](https://www.riau.go.id/home/) | [Kepulauan Riau](https://www.kepriprov.go.id/) | [Jambi](http://jambiprov.go.id/v2/) | [Bengkulu](https://bengkuluprov.go.id/) | [Sumatra Selatan](http://sumselprov.go.id/index.php?module=content&id=1) | [Kep. Bangka Belitung](https://www.babelprov.go.id/) | [Lampung](https://lampungprov.go.id/)
-**> Java:** [Banten](https://www.bantenprov.go.id/) | [D.K.I. Jakarta](https://www.jakarta.go.id/) | [West Java](https://jabarprov.go.id/) | [Center Java](https://jatengprov.go.id/) | [D.I. Yogyakarta](https://jogjaprov.go.id/) | [East Java](https://www.jatimprov.go.id/)
+++ **> Sumatera:** [Aceh](https://www.acehprov.go.id/) | [Sumatra Utara](https://www.sumutprov.go.id/) | [Sumatra Barat](https://www.sumbarprov.go.id/) | [Riau](https://www.riau.go.id/home/) | [Kepulauan Riau](https://www.kepriprov.go.id/) | [Jambi](http://jambiprov.go.id/v2/) | [Bengkulu](https://bengkuluprov.go.id/) | [Sumatra Selatan](http://sumselprov.go.id/index.php?module=content&id=1) | [Kep. Bangka Belitung](https://www.babelprov.go.id/) | [Lampung](https://lampungprov.go.id/)
+++ **> Java:** [Banten](https://www.bantenprov.go.id/) | [D.K.I. Jakarta](https://www.jakarta.go.id/) | [West Java](https://jabarprov.go.id/) | [Center Java](https://jatengprov.go.id/) | [D.I. Yogyakarta](https://jogjaprov.go.id/) | [East Java](https://www.jatimprov.go.id/)
 **> Kalimantan:** [Kalimantan Barat](http://kalbarprov.go.id/) | [Kalimantan Tengah](https://kalteng.go.id/) | [Kalimantan Selatan](http://www.kalselprov.go.id/) | [Kalimantan Timur](https://kaltimprov.go.id/) | [Kalimantan Utara](https://www.kaltaraprov.go.id/)
 **> Sulawesi:** [Sulawesi Selatan](https://sulselprov.go.id/) | [Sulawesi Tengah](https://www.sultengprov.go.id/) | [Sulawesi Tenggara](http://www.sultraprov.go.id/) | [Gorontalo](https://www.gorontaloprov.go.id/) | [Sulawesi Utara](https://www.sulutprov.go.id/)
 **> Maluku:** [Maluku](https://www.malukuprov.go.id/) | [Maluku Utara](https://www.malutprov.go.id/)
