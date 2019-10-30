@@ -113,18 +113,27 @@ This repository provides public datasets in Indonesia region and espesially Bany
 
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
++ **Government:**:
+**> Sumatera:** [Aceh](https://www.acehprov.go.id/) | [Sumatra Utara](https://www.sumutprov.go.id/) | [Sumatra Barat](https://www.sumbarprov.go.id/) | [Riau](https://www.riau.go.id/home/) | [Kepulauan Riau](https://www.kepriprov.go.id/) | [Jambi](http://jambiprov.go.id/v2/) | [Bengkulu](https://bengkuluprov.go.id/) | [Sumatra Selatan](http://sumselprov.go.id/index.php?module=content&id=1) | [Kep. Bangka Belitung](https://www.babelprov.go.id/) | [Lampung](https://lampungprov.go.id/)
+**> Java:** [Banten](https://www.bantenprov.go.id/) | [D.K.I. Jakarta](https://www.jakarta.go.id/) | [West Java](https://jabarprov.go.id/) | [Center Java](https://jatengprov.go.id/) | [D.I. Yogyakarta](https://jogjaprov.go.id/) | [East Java](https://www.jatimprov.go.id/)
+**> Kalimantan:** [Kalimantan Barat](http://kalbarprov.go.id/) | [Kalimantan Tengah](https://kalteng.go.id/) | [Kalimantan Selatan](http://www.kalselprov.go.id/) | [Kalimantan Timur](https://kaltimprov.go.id/) | [Kalimantan Utara](https://www.kaltaraprov.go.id/)
+**> Sulawesi:** [Sulawesi Selatan](https://sulselprov.go.id/) | [Sulawesi Tengah](https://www.sultengprov.go.id/) | [Sulawesi Tenggara](http://www.sultraprov.go.id/) | [Gorontalo](https://www.gorontaloprov.go.id/) | [Sulawesi Utara](https://www.sulutprov.go.id/)
+**> Maluku:** [Maluku](https://www.malukuprov.go.id/) | [Maluku Utara](https://www.malutprov.go.id/)
+**> Bali:** [Bali](https://www.baliprov.go.id/)
+**> Nusa Tenggara:** [Nusa Tenggara Timur](http://nttprov.go.id/2018/) | [Nusa Tenggara Barat](https://www.ntbprov.go.id/)
+**> Papua:** [Papua](https://www.papua.go.id/) | [Papua Barat](https://papuabaratprov.go.id/)
 
 ## E-Planning and E-Budgeting
 + **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
 + **Provincies e-budgeting**: 
-**> Sumatera**: Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
-**> Java**: [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
-**> Kalimantan**: [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
-**> Sulawesi**: [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
-**> Maluku**: Maluku | Maluku Utara
-**> Bali**: Bali
-**> Nusa Tenggara**: Nusa Tenggara Timur | Nusa Tenggara Barat 
-**> Papua**: [Papua](https://ppa.papua.go.id/landing_ppa/) | Papua Barat
+**> Sumatera:** Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
+**> Java:** [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
+**> Kalimantan:** [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
+**> Sulawesi:** [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
+**> Maluku:** Maluku | Maluku Utara
+**> Bali:** Bali
+**> Nusa Tenggara:** Nusa Tenggara Timur | Nusa Tenggara Barat 
+**> Papua:** [Papua](https://ppa.papua.go.id/landing_ppa/) | Papua Barat
 + **Cities e-budgeting**: [Bandung](http://apbd.bandung.go.id) | Semarang | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
 + **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
 
