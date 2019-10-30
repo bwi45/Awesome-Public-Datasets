@@ -111,6 +111,28 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [Papua Barat](https://papuabarat.bps.go.id)
   + [Manokwari](https://manokwarikab.bps.go.id) (capital)
 
+## Government and Politics Data
++ **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
++ **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
++ **Provincies e-budgeting**: 
+**Sumatera**: [Bengkulu](https://bengkuluprov.go.id/tag/e-budgeting/)
+**Java**: [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java: belum | [Center Java](https://ebudgeting.jatengprov.go.id/) | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
+**Kalimantan**: [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
+**Sulawesi**: [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
+**Maluku**:
+**Bali**:
+**Nusa Tenggara**: 
+**Papua**: [Papua](https://ppa.papua.go.id/landing_ppa/)
++ **Cities e-budgeting**: [Bandung](http://apbd.bandung.go.id) | Semarang: belum | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
++ **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
+
+## Lembaga Survei
+[Lembaga Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/)
+
+<p align="center"> 
+  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
+</p>
+
 ## Banyuwangi
 
 <p align="center"> 
@@ -120,20 +142,6 @@ This repository provides public datasets in Indonesia region and espesially Bany
 + [BPS Banyuwangi](https://banyuwangikab.bps.go.id)
 + [Banyuwangi Geographic Information System](http://gis.banyuwangikab.go.id/)
 + [Pemerintah Kabupaten Bayuwangi](https://www.banyuwangikab.go.id/)
-
-## Politics Data
-+ **Election: ** [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
-+ **Ministry e-budgeting: ** [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
-+ **Provincies e-budgeting: ** [DKI Jakarta](https://apbd.jakarta.go.id/) | [Center Java](https://ebudgeting.jatengprov.go.id/) | [East Java](http://budgeting.jatimprov.go.id:2018/#/main) | [North Kalimantan](http://e-budgeting.kaltaraprov.go.id) | [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [Bengkulu](https://bengkuluprov.go.id/tag/e-budgeting/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/) | [Papua](https://ppa.papua.go.id/landing_ppa/)
-+ **Cities e-budgeting: ** [Bandung](http://apbd.bandung.go.id) | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
-+ **Regencies e-budgeting: ** [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
-
-## Lembaga Survei
-[Lembaga Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/)
-
-<p align="center"> 
-  <img src="https://github.com/Banyuwangi45/awesome-public-datasets/blob/master/politicalelection_qc.jpg" width="50%" href="https://id.wikipedia.org/wiki/Hitung_cepat">
-</p>
 
 ## References
 + [Provinces of Indonesia](https://en.wikipedia.org/wiki/Provinces_of_Indonesia)
