@@ -78,20 +78,6 @@ This repository provides public datasets in Indonesia region.
 + [**Papua**](https://papua.bps.go.id): [Jayapura](https://jayapurakota.bps.go.id) (capital)
 + [**West Papua**](https://papuabarat.bps.go.id): [Manokwari](https://manokwarikab.bps.go.id) (capital)
 
-## APBN and APBD
-+ [**Perimbangan Keuangan - Kementrian Keuangan**](http://www.djpk.kemenkeu.go.id/)
-+ [**Dirjen Bina Keuangan Daerah - Kementrian Dalam Negeri**](http://keuda.kemendagri.go.id/)
-+ [**APBN:**](https://www.kemenkeu.go.id/apbnkita) [2019](https://www.kemenkeu.go.id/media/11226/buku-informasi-apbn-2019.pdf)
-+ **APBD:** [**Grafik**](http://www.djpk.kemenkeu.go.id/visual/#/grafik) | [**Tabel**](http://www.djpk.kemenkeu.go.id/visual/#/tabel) | [APBD, Realisasi APBD, dan Neraca](http://www.djpk.kemenkeu.go.id/?p=5412)
-  + **Sumatera:** [Aceh]() | [North Sumatra]() | [West Sumatra]() | [Riau]() | [Riau Islands]() | [Jambi]() | [Bengkulu]() | [South Sumatra]() | [Bangka Belitung Islands]() | [Lampung]()
-  + **Java:** [Banten]() | [D.K.I. Jakarta]() | [West Java]() | [Center Java]() | [D.I. Yogyakarta]() | [East Java]()
-  + **Kalimantan:** [West Kalimantan]() | [Center Kalimantan]() | [South Kalimantan]() | [East Kalimantan]() | [North Kalimantan]()
-  + **Sulawesi:** [South Sulawesi]() | [Center Sulawesi]() | [Southeasth Sulawesi]() | [Gorontalo]() | [North Sulawesi]()
-  + **Maluku:** [Maluku]() | [North Maluku Utara]()
-  + **Bali:** [Bali]()
-  + **Nusa Tenggara:** [East Nusa Tenggara]() | [West Nusa Tenggara]()
-  + **Papua:** [Papua]() | [West Papua]()
-
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 + **Government:**
