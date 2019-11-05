@@ -4,6 +4,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Banyuwangi45/awesome-public-datasets)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555)](https://www.linkedin.com/company/14702071)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Banyuwangi45/Awesome-Public-Datasets)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Banyuwangi45/Awesome-Public-Datasets)
+
 # Awesome Indonesia Public Datasets
 > “Negara ini, Republik Indonesia, bukan milik kelompok manapun, juga agama, atau kelompok etnis manapun, atau kelompok dengan adat dan tradisi apa pun, tapi milik kita semua dari Sabang sampai Merauke!” ~ Ir. Soekarno
 
