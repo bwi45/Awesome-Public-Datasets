@@ -92,59 +92,6 @@ This repository provides public datasets in Indonesia region.
   + **Nusa Tenggara:** [East Nusa Tenggara](http://nttprov.go.id/2018/) | [West Nusa Tenggara](https://www.ntbprov.go.id/)
   + **Papua:** [Papua](https://www.papua.go.id/) | [West Papua](https://papuabaratprov.go.id/)
 
-## Bappenas dan Bappeda
-#### Bappenas
-+ [**Bappenas**](https://www.bappenas.go.id/) | [**Data Bappenas**](https://data.bappenas.go.id/metrics)
-
-#### Sumatra
-+ [**Aceh**](): [Banda Aceh]() (capital) | [Langsa]() | [Lhokseumawe]() | [Meulaboh]() | [Sabang]() | [Subulussalam]()
-+ [**North Sumatra**](): [Medan](https://medankota.bps.go.id) (capital) | [Binjai](https://binjaikota.bps.go.id/) | [Padang Sidempuan](https://padangsidimpuankota.bps.go.id/) | [Pematangsiantar](https://siantarkota.bps.go.id/) | [Sibolga](https://sibolgakota.bps.go.id/) | [Tanjungbalai](https://tanjungbalaikota.bps.go.id/) | [Tebingtinggi](https://tebingtinggikota.bps.go.id/)
-+ [**West Sumatra**](): [Padang](https://padangkota.bps.go.id) (capital) | [Bukittinggi](https://bukittinggikota.bps.go.id/) | [Padangpanjang](https://padangpanjangkota.bps.go.id/) | [Pariaman](https://pariamankota.bps.go.id/) | [Payakumbuh](https://payakumbuhkota.bps.go.id/) | [Sawahlunto](https://sawahluntokota.bps.go.id/) | [Solok](https://solokkab.bps.go.id/)
-+ [**Riau**](): [Pekanbaru](https://pekanbarukota.bps.go.id) (capital) | [Dumai](https://dumaikota.bps.go.id/)
-+ [**Riau Islands**](): [Tanjung Pinang](https://tanjungpinangkota.bps.go.id) (capital) | [Batam](https://batamkota.bps.go.id/)
-+ [**Jambi**](): [Kota Jambi](https://jambikota.bps.go.id) (capital) | [Sungai Penuh](https://sungaipenuhkota.bps.go.id/)
-+ [**Bengkulu**](): [Kota Bengkulu](https://bengkulukota.bps.go.id) (capital)
-+ [**South Sumatra**](): [Palembang](https://palembangkota.bps.go.id) (capital) | [Lubuklinggau](https://lubuklinggaukota.bps.go.id/) | [Pagaralam](https://pagaralamkota.bps.go.id/) | [Prabumulih](https://prabumulihkota.bps.go.id/) 
-+ [**Bangka Belitung Islands**](): [Pangkalpinang](https://pangkalpinangkota.bps.go.id) (capital)
-+ [**Lampung**](): [Bandar Lampung](https://bandarlampungkota.bps.go.id) (capital) | [Metro](https://metrokota.bps.go.id/)
-
-#### Java
-+ [**Banten**](): [Serang](https://serangkota.bps.go.id) (capital) | [Cilegon](https://cilegonkota.bps.go.id/) | [Tangerang Selatan](https://tangselkota.bps.go.id/) | [Tangerang](https://tangerangkota.bps.go.id/)
-+ [**D.K.I. Jakarta**](): [Center Jakarta](https://jakpuskota.bps.go.id) (capital) | [Jakarta Barat](https://jakbarkota.bps.go.id/) | [Jakarta Selatan](https://jakselkota.bps.go.id/) | [Jakarta Timur](https://jaktimkota.bps.go.id/) | [Jakarta Utara](https://jakutkota.bps.go.id/)
-+ [**West Java**](): [Bandung](https://bandungkota.bps.go.id) (capital) | [Bekasi](https://bekasikota.bps.go.id/) | [Bogor](https://bogorkota.bps.go.id/) | [Cimahi](https://cimahikota.bps.go.id/) | [Cirebon](https://cirebonkota.bps.go.id/) | [Depok](https://depokkota.bps.go.id/) | [Sukabumi](https://sukabumikab.bps.go.id/) | [Tasikmalaya](https://tasikmalayakota.bps.go.id/) | [Banjar](https://banjarkota.bps.go.id/)
-+ [**Center Java**](): [Semarang](https://semarangkota.bps.go.id) (capital) | [Magelang](https://magelangkab.bps.go.id/) | [Pekalongan](https://pekalongankota.bps.go.id/) | [Purwokerto](https://banyumaskab.bps.go.id/) | [Salatiga](https://salatigakota.bps.go.id/) | [Surakarta](https://surakartakota.bps.go.id/) | [Tegal](https://tegalkota.bps.go.id/)
-+ [**D.I. Yogyakarta**](): [Yogyakarta](https://jogjakota.bps.go.id) (capital)
-+ [**East Java**](): [Surabaya](https://surabayakota.bps.go.id) (capital) | [Malang](https://malangkota.bps.go.id/) | [Batu](https://batukota.bps.go.id/) | [Blitar](https://blitarkota.bps.go.id/) | [Kediri](https://kedirikota.bps.go.id/) | [Madiun](https://madiunkota.bps.go.id/) | [Mojokerto](https://mojokertokota.bps.go.id/) | [Pasuruan](https://pasuruankota.bps.go.id/) | [Probolinggo](https://probolinggokota.bps.go.id/)
-
-#### Kalimantan
-+ [**West Kalimantan**](): [Pontianak](https://pontianakkota.bps.go.id) (capital) | [Singkawang](https://singkawangkota.bps.go.id/)
-+ [**Center Kalimantan**](): [Palangkaraya](https://palangkakota.bps.go.id) (capital)
-+ [**South Kalimantan**](): [Banjarmasin](https://banjarmasinkota.bps.go.id) (capital) | [Banjarbaru](https://banjarbarukota.bps.go.id/)
-+ [**East Kalimantan**](): [Samarinda](https://banjarmasinkota.bps.go.id) (capital) | [Balikpapan](https://balikpapankota.bps.go.id/) | [Bontang](https://bontangkota.bps.go.id/)
-+ [**North Kalimantan**](): [Tarakan](https://tarakankota.bps.go.id/) (capital)
-
-#### Sulawesi
-+ [**South Sulawesi**](): [Makassar](https://makassarkota.bps.go.id) (capital) | [Palopo](https://palopokota.bps.go.id/) | [Parepare](https://pareparekota.bps.go.id/)
-+ [**Center Sulawesi**](): [Palu](https://palukota.bps.go.id) (capital)
-+ [**Southeast Sulawesi**](): [Kendari](https://kendarikota.bps.go.id) (capital) | [Bau-Bau](https://baubaukota.bps.go.id/)
-+ [**Gorontalo**](): [Kota Gorontalo](https://gorontalokota.bps.go.id) (capital)
-+ [**North Sulawesi**](): [Manado](https://manadokota.bps.go.id) (capital) | [Bitung](https://bitungkota.bps.go.id/) | [Kotamobagu](https://kotamobagukota.bps.go.id/) | [Tomohon](https://tomohonkota.bps.go.id/)
-
-#### Maluku
-+ [**Maluku**](): [Ambon](https://ambonkota.bps.go.id) (capital) | [Tual](https://tualkota.bps.go.id)
-+ [**North Maluku**](): [Sofifi](https://tikepkota.bps.go.id) (capital) | [Ternate](https://ternatekota.bps.go.id/) | [Tidora](https://tikepkota.bps.go.id/)
-
-#### Bali
-+ [**Bali**](): [Denpasar](https://denpasarkota.bps.go.id/)(capital)
-
-#### Nusa Tenggara
-+ [**West Nusa Tenggara**](): [Mataram](https://mataramkota.bps.go.id) (capital) | [Bima](https://bimakota.bps.go.id/)
-+ [**East Nusa Tenggara**](): [Kupang](https://kupangkota.bps.go.id) (capital)
-
-#### Papua
-+ [**Papua**](): [Jayapura](https://jayapurakota.bps.go.id) (capital)
-+ [**West Papua**](): [Manokwari](https://manokwarikab.bps.go.id) (capital)
-
 ## Government and Politics Data
 + **Election**: [Indonesia Election Dataset](https://datahub.io/JemputData/pilkada_indonesia)
 + **Government:**
@@ -157,19 +104,59 @@ This repository provides public datasets in Indonesia region.
   + **Nusa Tenggara:** [East Nusa Tenggara](http://nttprov.go.id/2018/) | [West Nusa Tenggara]()
   + **Papua:** [Papua]() | [West Papua]()
 
-## E-Planning and E-Budgeting
-+ **Ministry e-budgeting**: [Pekerjaan Umum](http://ebudgeting.pu.go.id/) | [Perhubungan](https://eplanning.dephub.go.id/)
-+ **Provincies e-budgeting**: 
-  + **Sumatera:** Aceh | [Nort Sumatera](https://eplanning.sumutprov.go.id/backend/web/index.php) | West Sumatera | Riau | Riau Island | Jambi | South Sumatera | Bengkulu | Bangka Belitung | Jambi | [Lampung](http://www.ebudgeting.lampungprov.go.id/)
-  + **Java:** [DKI Jakarta](https://apbd.jakarta.go.id/) | West Java | [Center Java](https://ebudgeting.jatengprov.go.id/) | DI Yogyakarta | [East Java](http://budgeting.jatimprov.go.id:2018/#/main)
-  + **Kalimantan:** [North Kalimantan](http://e-budgeting.kaltaraprov.go.id)
-  + **Sulawesi:** [South Sulawesi](https://ebudgeting.sulselprov.go.id/) | [West Sulawesi](http://bappeda.sulbarprov.go.id/tag/ebudgeting/)
-  + **Maluku:** Maluku | North Maluku
-  + **Bali:** Bali
-  + **Nusa Tenggara:** East Nusa Tenggara | West Nusa Tenggara 
-  + **Papua:** [Papua](https://ppa.papua.go.id/landing_ppa/) | West Papua
-+ **Cities e-budgeting**: [Bandung](http://apbd.bandung.go.id) | Semarang | [Surabaya](https://ebudgeting.surabaya.go.id/new_portal/) | [Palopo](https://budgeting.palopokota.go.id/) | [Medan](http://ebudgeting.pemkomedan.go.id/)
-+ **Regencies e-budgeting**: [Malang](http://e-budgeting.malangkab.go.id/) | [Magelang](http://e-budgeting.magelangkab.go.id/home/) | [Grobogan](http://grms.grobogan.go.id/ebudgeting/) | [Temanggung](https://e-budgeting.temanggungkab.go.id/home/) | [Kudus](http://rpjm.kuduskab.go.id/ebudgeting/) | [Rembang](http://sim.rembangkab.go.id:8081/) | [Tebing Tinggi](http://ebudgeting.tebingtinggikota.go.id/) | [Seluma](https://ebudgeting.selumakab.go.id) | [Langkat](http://ebudgeting.langkatkab.go.id/) | [North Bengkulu](http://e-budgeting.bengkuluutarakab.go.id/web/home) | [Buda Keerom](https://eplanning.keeromkab.go.id/ebudgeting/giadmin)
+## Bappenas dan Bappeda
+#### Bappenas
++ [**Bappenas**](https://www.bappenas.go.id/) | [**Data Bappenas**](https://data.bappenas.go.id/metrics)
+
+#### Sumatra
++ [**Aceh**](): [Banda Aceh]() (capital) | [Langsa]() | [Lhokseumawe]() | [Meulaboh]() | [Sabang]() | [Subulussalam]()
++ [**North Sumatra**](): [Medan]() (capital) | [Binjai]() | [Padang Sidempuan]() | [Pematangsiantar]() | [Sibolga]() | [Tanjungbalai]() | [Tebingtinggi]()
++ [**West Sumatra**](): [Padang]() (capital) | [Bukittinggi]() | [Padangpanjang]() | [Pariaman]() | [Payakumbuh]() | [Sawahlunto]() | [Solok]()
++ [**Riau**](): [Pekanbaru]() (capital) | [Dumai]()
++ [**Riau Islands**](): [Tanjung Pinang]() (capital) | [Batam]()
++ [**Jambi**](): [Kota Jambi]() (capital) | [Sungai Penuh]()
++ [**Bengkulu**](): [Kota Bengkulu]() (capital)
++ [**South Sumatra**](): [Palembang]() (capital) | [Lubuklinggau]() | [Pagaralam]() | [Prabumulih]() 
++ [**Bangka Belitung Islands**](): [Pangkalpinang]() (capital)
++ [**Lampung**](): [Bandar Lampung]() (capital) | [Metro]()
+
+#### Java
++ [**Banten**](): [Serang]() (capital) | [Cilegon]() | [Tangerang Selatan]() | [Tangerang]()
++ [**D.K.I. Jakarta**](): [Center Jakarta]() (capital) | [Jakarta Barat]() | [Jakarta Selatan]() | [Jakarta Timur]() | [Jakarta Utara]()
++ [**West Java**](): [Bandung]() (capital) | [Bekasi]() | [Bogor]() | [Cimahi]() | [Cirebon]() | [Depok]() | [Sukabumi]() | [Tasikmalaya]() | [Banjar]()
++ [**Center Java**](): [Semarang]() (capital) | [Magelang]() | [Pekalongan]() | [Purwokerto]() | [Salatiga]() | [Surakarta]() | [Tegal]()
++ [**D.I. Yogyakarta**](): [Yogyakarta]() (capital)
++ [**East Java**](): [Surabaya]() (capital) | [Malang]() | [Batu]() | [Blitar]() | [Kediri]() | [Madiun]() | [Mojokerto]() | [Pasuruan]() | [Probolinggo]()
+
+#### Kalimantan
++ [**West Kalimantan**](): [Pontianak]() (capital) | [Singkawang]()
++ [**Center Kalimantan**](): [Palangkaraya]() (capital)
++ [**South Kalimantan**](): [Banjarmasin]() (capital) | [Banjarbaru]()
++ [**East Kalimantan**](): [Samarinda]() (capital) | [Balikpapan]() | [Bontang]()
++ [**North Kalimantan**](): [Tarakan]() (capital)
+
+#### Sulawesi
++ [**South Sulawesi**](): [Makassar]() (capital) | [Palopo]() | [Parepare]()
++ [**Center Sulawesi**](): [Palu]() (capital)
++ [**Southeast Sulawesi**](): [Kendari]() (capital) | [Bau-Bau]()
++ [**Gorontalo**](): [Kota Gorontalo]() (capital)
++ [**North Sulawesi**](): [Manado]() (capital) | [Bitung]() | [Kotamobagu]() | [Tomohon]()
+
+#### Maluku
++ [**Maluku**](): [Ambon]() (capital) | [Tual]()
++ [**North Maluku**](): [Sofifi]() (capital) | [Ternate]() | [Tidora]()
+
+#### Bali
++ [**Bali**](): [Denpasar]()(capital)
+
+#### Nusa Tenggara
++ [**West Nusa Tenggara**](): [Mataram]() (capital) | [Bima]()
++ [**East Nusa Tenggara**](): [Kupang]() (capital)
+
+#### Papua
++ [**Papua**](): [Jayapura]() (capital)
++ [**West Papua**](): [Manokwari]() (capital)
+
 
 ## Survey Institute
 [Lingkar Survei Indonesia](http://www.lsi.or.id/) | [Saiful Mujani Research and Consulting](http://saifulmujani.com/) | [Indikator](http://indikator.co.id/) | [Charta Politika](http://www.chartapolitika.com/) | [Litbang Kompas](http://www.kompasdata.id/)
